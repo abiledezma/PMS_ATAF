@@ -4,7 +4,7 @@ Water Resources Engineering and Management (WAREM) - Universität Stuttgart
 
 *** 
 
-![Cover](https://github.com/abiledezma/PMIS_ATAF/blob/main/Cover.jpg)
+![Cover](https://github.com/abiledezma/PMS_ATAF/blob/main/Cover.jpg)
 
 
 >   ***Goals***: 
@@ -55,7 +55,7 @@ Different configurations of the device needed to perform this method can
 be used 
 ([DIN EN ISO 10870:2012](https://www.beuth.de/de/norm/din-en-iso-10870/152469102)).
 
-![Mesh of a sampling](https://github.com/abiledezma/PMIS_ATAF/blob/main/KickSampling.jpg)
+![Mesh of a sampling](https://github.com/abiledezma/PMS_ATAF/blob/main/KickSampling.jpg)
 
 ([Dynamic Aqua-Supply](https://dynamicaquasupply.com/collections/nets/products/aquatic-invertebrate-kick-net))
 
@@ -93,7 +93,7 @@ above of it will be shown in a bar-graph.
 This is organized in XX scripts that are called by the 'main'. 
 In the following graph the code diagram is shown.
 
-![CodeBlock](https://github.com/abiledezma/PMIS_ATAF/blob/main/CodeBlock.jpg)
+![CodeBlock](https://github.com/abiledezma/PMS_ATAF/blob/main/CodeBlock.jpg)
 
 ### Run instrucctions
 
