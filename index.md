@@ -29,7 +29,3 @@ below the criteria stated in the input. Also colored in
 data to compare between the *Data base* and the *Sample data*
 3. **Results_Final.pdf**: a pdf file that shows the same information as in point 2.
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
