@@ -19,7 +19,7 @@ shown in previous studies (*Data base*) will be made
  6. Using the *criteria* defined, the organisms under and 
 above of it will be shown in a bar-graph.
 
-### Result
+### Results
 
 1. **Results_Final.jpg**: a jpg file that is the final graph showing the
 percentage of the *Data base* in <span style="color: blue"> blue</span>,
@@ -30,7 +30,7 @@ in 1 and a table that contains the species name, the amount and percentage of
 each specie in the sample and the data and the difference between both. In this
 last column the numbers in <span style="color: red"> red</span> mean they are
 below the criteria stated in the input. Also colored in 
-`<span style="color: yellow"> yellow</span>` will be the rows in which there is no
+yellow will be the rows in which there is no
 data to compare between the *Data base* and the *Sample data*
 3. **Results_Final.pdf**: a pdf file that shows the same information as in point 2.
 
