@@ -19,7 +19,7 @@ shown in previous studies (*Data base*) will be made
  6. Using the *criteria* defined, the organisms under and 
 above of it will be shown in a bar-graph.
 
-### Results
+### Result
 
 1. **Results_Final.jpg**: a jpg file that is the final graph showing the
 percentage of the *Data base* in <span style="color: blue"> blue</span>,
